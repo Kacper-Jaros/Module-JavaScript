@@ -1,0 +1,21 @@
+body {
+  position: relative;
+}
+
+[draggable] {
+  cursor: move;
+}
+
+table {
+  width: 100px;
+  border: 1px solid black;
+  background: pink;
+}
+
+.myDiv {
+  width: 20px;
+  height: 20px;
+  background-color: aqua;
+  border: 1px solid black;
+  z-index: 5;
+}
